@@ -4,7 +4,7 @@ class Welcome{
 	
 	public static void main(String args[])
 	{
-		System.out.println("Welcome buddy");
+		System.out.println("Welcome to capgemini buddy ");
 	}
 	
 	
